@@ -12,7 +12,7 @@
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.4.0",
     "bootstrap": "^4.3.1",
-    "gulp-autoprefixer": "^4.1.0",
+    "gulp-autoprefixer": "^8.0.0",
     "gulp-group-css-media-queries": "^1.2.2",
     "gulp-plumber-notifier": "0.0.3",
     "gulp-pug": "^3.3.0",
